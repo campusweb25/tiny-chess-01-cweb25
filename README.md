@@ -6,3 +6,5 @@
 
 A deterministic, fixed-node-budget Python chess engine for Make.fun's
 `tiny-chess-01` competition. The sole runtime entrypoint is `main.py`.
+
+Inspired by [Sunfish NNUE 4K](https://github.com/thomasahle/sunfish/blob/master/nnue_4k/README.md).
